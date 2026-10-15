@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="110" alt="MetaView icon">
+  <img src="icon.png" width="110" alt="MetaView icon">
 </p>
 
 <h1 align="center">MetaView</h1>
@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/screen-chat.png" width="230" alt="Live chat">
-  <img src="assets/screen-stream.png" width="230" alt="Live stream">
-  <img src="assets/screen-fitness.png" width="230" alt="Fitness tracker">
+  <img src="screen-chat.png" width="230" alt="Live chat">
+  <img src="screen-stream.png" width="230" alt="Live stream">
+  <img src="screen-fitness.png" width="230" alt="Fitness tracker">
 </p>
 
 ---
