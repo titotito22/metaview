@@ -22,7 +22,9 @@
 </p>
 
 ---
-https://youtu.be/nDJW1O7I6RE?si=MQFOQoBzlq19mbRz
+[![Unlock meta glasses ai features without VPN](https://img.youtube.com/vi/nDJW1O7I6RE/hqdefault.jpg)](https://www.youtube.com/watch?v=nDJW1O7I6RE)
+
+
 
 ## What it does
 
