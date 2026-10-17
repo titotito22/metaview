@@ -55,6 +55,7 @@ stored only on your phone.
 2. Open it and allow *Install unknown apps* when asked.
 
 ### iPhone
+To install on your iphone need to send to your UDID number of your phone to can register your device and allow it to install the app if you dont know how watch this youtube tutorial : https://www.youtube.com/watch?v=A2LMUlzd5dw&t=58s
 Open the [iPhone install page](https://titotito22.github.io/metaview/#iphone) in Safari.
 iPhone installs are limited to registered devices: [send your UDID](https://titotito22.github.io/metaview/#iphone) to get access.
 
@@ -103,9 +104,7 @@ everything unlocks in seconds.
 Questions or bugs? Open an [issue](../../issues).
 Like the project? [Buy me a coffee ☕](https://buymeacoffee.com/cybermonk/membership)
 
-To install on your iphone need to send to your UDID number of your phone 
-to can register your device and allow it to install the app if you dont 
-know how watch this youtube tutorial : https://www.youtube.com/watch?v=A2LMUlzd5dw&t=58s
+
 ---
 
 <sub>MetaView is an independent project and is not affiliated with, endorsed or
