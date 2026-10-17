@@ -71,10 +71,8 @@ iPhone installs are limited to registered devices: [send your UDID](https://tito
 
 ---
 
-## Free vs Premium
 
-| Free | Premium |
-|---|---|
+
 | Live voice chat with your AI | Everything in Free |
 | Glasses photos & video (Capture tab) | Look, Read, Summarize |
 | Live streaming | Live translation |
@@ -89,7 +87,7 @@ everything unlocks in seconds.
 
 ## Requirements
 
-- Ray-Ban Meta glasses + the Meta AI app
+- Meta glasses + the Meta AI app
 - Android 12+ (64-bit) or iPhone with iOS 16+
 - An OpenAI, Gemini or Grok API key
 
@@ -105,6 +103,9 @@ everything unlocks in seconds.
 Questions or bugs? Open an [issue](../../issues).
 Like the project? [Buy me a coffee ☕](https://buymeacoffee.com/cybermonk/membership)
 
+To install on your iphone need to send to your UDID number of your phone 
+to can register your device and allow it to install the app if you dont 
+know how watch this youtube tutorial : https://www.youtube.com/watch?v=A2LMUlzd5dw&t=58s
 ---
 
 <sub>MetaView is an independent project and is not affiliated with, endorsed or
